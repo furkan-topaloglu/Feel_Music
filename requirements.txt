@@ -1,0 +1,6 @@
+"""
+Bu proje yalnızca Python'un standart kütüphanelerini kullanır.
+Harici bağımlılık yoktur. Bu dosya dokümantasyon amaçlıdır.
+"""
+
+
